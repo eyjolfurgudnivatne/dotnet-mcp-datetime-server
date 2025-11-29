@@ -1,0 +1,11 @@
+{
+  "inputs": [],
+  "servers": {
+    "datetime": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": ["DateTimeMcpServer.cs"],
+      "env": {}
+    }
+  }
+}
