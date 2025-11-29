@@ -20,7 +20,7 @@ Provides 5 datetime tools via JSON-RPC 2.0:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/dotnet-mcp-datetime-server.git
+git clone https://github.com/eyjolfurgudnivatne/dotnet-mcp-datetime-server.git
 cd dotnet-mcp-datetime-server
 ```
 
